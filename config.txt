@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="Pelham Smithers Outlook AddIn"
+BeginPrompt="Do you want to install Pelham Smithers Outlook AddIn?"
+RunProgram="runme.cmd"
+;!@InstallEnd@!
