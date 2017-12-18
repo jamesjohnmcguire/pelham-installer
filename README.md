@@ -2,8 +2,9 @@
 This is the readme file for the install for the Pelham Smithers Outlook Add In.
 
 Install Directions:
-	Click on Installer.exe link above
 	
+	Click on Installer.exe link above
+
 	Press the Download button at: https://github.com/jamesjohnmcguire/pelham-installer/blob/master/Installer.exe
 
 	Click DOWNLOAD, download the application 
